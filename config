@@ -5,7 +5,7 @@ pg_pass=AKwWM4Qu2GRppJ7
 redis_pass=AKwWM4Qu2GRppJ7
 rabbit_pass=AKwWM4Qu2GRppJ7
 deploy_joao980707@gmail.com
-repositorio=https://github.com/jooaovictorr/izing.open.io.git
+repositorio=https://github.com/jooaovictorr/izing.git
 nome_instancia=playvision
 porta_postgre_intancia=5432
 frontend_url=home.playvision.com.br
